@@ -1,4 +1,4 @@
-# SR-FLIPFLOP-USING-CASE
+<img width="804" height="259" alt="image" src="https://github.com/user-attachments/assets/92cc7924-586e-4fa9-864a-9d66b613fc59" /># SR-FLIPFLOP-USING-CASE
 
 **AIM:**
 
@@ -71,9 +71,10 @@ module e6(s, r, clk, rst, q);
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="783" height="260" alt="image" src="https://github.com/user-attachments/assets/1efd6ec5-0060-4581-8879-57efc8cf4134" />
+<img width="755" height="320" alt="image" src="https://github.com/user-attachments/assets/22dedbfd-579b-4819-8125-aa58cfa1ae9a" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="726" height="357" alt="image" src="https://github.com/user-attachments/assets/2328b7da-5df8-4ef1-945c-5e434f4ad170" />
+<img width="798" height="286" alt="image" src="https://github.com/user-attachments/assets/20a83e7e-eb92-4dcd-947c-22c611d06e7a" />
+
 
 **RESULTS**
